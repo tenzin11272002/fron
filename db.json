@@ -10,12 +10,14 @@
     {"id": 1,
       "name": "Tenzin Sonam", 
     "email": "tenzin@gmail.com", 
-    "dzongkhag": "Thimphu", 
+    "dzongkhag": "Thimphu",
+     "gewog": "genekha"
     "contactNumber": 17271244},
      {"id": 2,
       "name": "Namgay Wangmo", 
     "email": "namgay@gmail.com", 
-    "dzongkhag": "Trashigang", 
+    "dzongkhag": "Mongar",
+     "gewog": "Saling"
     "contactNumber": 77433040}
   ]
 }
