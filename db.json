@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "mechanic": [
+    {"id": 1,
+      "name": "Tenzin Sonam", 
+    "email": "tenzin@gmail.com", 
+    "dzongkhag": "Thimphu",
+     "gewog": "genekha"
+    "contactNumber": 17271244},
+     {"id": 2,
+      "name": "Namgay Wangmo", 
+    "email": "namgay@gmail.com", 
+    "dzongkhag": "Mongar",
+     "gewog": "Saling"
+    "contactNumber": 77433040}
+  ]
+}
